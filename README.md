@@ -49,17 +49,11 @@
   </tr>
 </table>
 
-## Estadísticas
+## Actividad
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosSantiagoCoronadoR&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3776AB&icon_color=3776AB&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSantiagoCoronadoR&layout=compact&hide_border=true&bg_color=0D1117&title_color=3776AB&text_color=C9D1D9" alt="Lenguajes más usados" />
+  <img src="https://raw.githubusercontent.com/CarlosSantiagoCoronadoR/CarlosSantiagoCoronadoR/output/snake-dark.svg" alt="Snake" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CarlosSantiagoCoronadoR&hide_border=true&background=0D1117&ring=3776AB&fire=3776AB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&locale=es" alt="Racha de contribuciones" />
-</div>
-
 ## Contacto
 
 <div align="center">
