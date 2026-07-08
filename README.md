@@ -62,7 +62,7 @@
   <a href="mailto:coronadoc744@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/carlos-coronado-58a3601b1/">
+  <a href="https://www.linkedin.com/verify/?entryPoint=selfview_topcard&platform=DESKTOP">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
