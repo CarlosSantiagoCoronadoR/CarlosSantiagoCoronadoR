@@ -54,6 +54,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CarlosSantiagoCoronadoR/CarlosSantiagoCoronadoR/output/snake-dark.svg" alt="Snake" />
 </div>
+
+
 ## Contacto
 
 <div align="center">
